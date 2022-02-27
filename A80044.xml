@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foundations of freedome, vindicated: or, The reasons of VVilliam Ashurst Esquire, against the paper, stiled, The peoples agreement, examined and discussed. Wherein it appeares, that the particulars proposed in the said paper, are no foundations of tyranny and slavery; nor destructive to religion, liberty, laws, and government, as is pretended: but foundations of freedome for this poore deluded and enslaved kingdome. / By William Cokayne, a wel-wisher to Englands freedomes; but an opposer of tyranny and oppression in any whomsoever.</title>
+            <author>Cokayne, William, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80044</idno>
+            <idno type="STC">Wing C4904</idno>
+            <idno type="STC">Thomason E541_25</idno>
+            <idno type="STC">ESTC R14353</idno>
+            <idno type="EEBO-CITATION">99859647</idno>
+            <idno type="PROQUEST">99859647</idno>
+            <idno type="VID">111742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foundations of freedome, vindicated: or, The reasons of VVilliam Ashurst Esquire, against the paper, stiled, The peoples agreement, examined and discussed. Wherein it appeares, that the particulars proposed in the said paper, are no foundations of tyranny and slavery; nor destructive to religion, liberty, laws, and government, as is pretended: but foundations of freedome for this poore deluded and enslaved kingdome. / By William Cokayne, a wel-wisher to Englands freedomes; but an opposer of tyranny and oppression in any whomsoever.</title>
+                  <author>Cokayne, William, fl. 1649.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Ashhurst, William.  Reasons against agreement with a late printed paper, intituled, Foundations of freedome: or, The agreement of the people.</note>
+                  <note>Annotation on Thomason copy: "feb: 7. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashhurst, William, 1617-1680. --  Reasons against agreement with a late printed paper, intituled, Foundations of freedome: or, The agreement of the people.</term>
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111742:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> FOVNDATIONS OF FREEDOME, VINDICATED: <hi>OR, THE REASONS</hi> OF WILLIAM ASHURST Eſquire, Againſt the Paper, ſtiled, <hi>THE PEOPLES AGREEMENT, Examined and diſcuſſed.</hi>
+            </p>
+            <p>Wherein it appeares, that the particulars propoſed in the ſaid <hi>Paper,</hi> are no foundations of Tyranny and Slavery; nor deſtructive to Reli<g ref="char:EOLhyphen"/>gion, Liberty, Laws, and Government, as is pretended; But foundations of Freedome for this poore deluded and enſlaved Kingdome.</p>
+            <p>By WILLIAM COKAYNE, a wel-wiſher to <hi>Englands</hi> freedomes; but an Oppoſer of Tyranny and Oppreſſion in any whomſoever.</p>
+            <p>
+               <hi>Every man ſeems juſt in his owne cauſe; but his Neighbour comes after and tries him.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>John Harris,</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111742:2"/>
+            <pb n="1" facs="tcp:111742:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>REaſons</hi> againſt <hi>Agreement,</hi> however beſmeared with golden phraſes, are too much (I feare) ſtudied by ſuch whoſe endeavours are to keep us in bondage, under an Arbitrary Government, where <hi>will</hi> muſt be un<g ref="char:EOLhyphen"/>diſputable <hi>law;</hi> whoſe <hi>finger</hi> will prove heavier than their <hi>Fathers loynes;</hi> as in part appears by the <hi>Reaſons againſt Agreement:</hi> which title, had it there ſtayed, had moſt ſuited the ſubject, whoſe ſeeming ſugered words are mixed with wormwood, promiſing fairneſſe, but viperouſly ſting<g ref="char:EOLhyphen"/>ing the poore deſpiſed Army, as endeavoring to enſlave and ruine the Kingdome, which (under God) they have ſo oft miraculouſly preſerved; to alienate the Peoples affections from them, inſtead of a reward anſwerable to their long and tedious miſeries, and to divide them amongst themſelves, thereby to obtaine, what neither violence of proteſted Ene<g ref="char:EOLhyphen"/>mies, nor ſubtile devices of pretended Friends, could yet doe: endeavouring to ſtarve them, for want of pay, as not worthy of their wages, when done their worke, or to live under and amongst thoſe they have ſacrificed their lives for: But as God hath hitherto owned and honoured their undertakings, ſo I truſt will, maugre the malice of all Ca<g ref="char:EOLhyphen"/>lumniators.</p>
+            <p>I doubt not but the Gentleman is already Anſwered, by abler Judgments; yet (being thereto importuned) as con<g ref="char:EOLhyphen"/>cerned with others in the Kingdomes freedomes, I have
+<pb n="2" facs="tcp:111742:3"/>(though the unworthieſt of thouſands) caſt in this ſmall mite, which of it prove like the ſtone from from David's <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> let God have the honour. All I deſire, from <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Reader is <hi>impartiality,</hi> who not being overpoiſed in a regall ballance, may without foreſtalledneſs weigh what is written; and if in any thing I erre from right principles, to con<g ref="char:EOLhyphen"/>vince me by ſound reaſon; and I ſhall be induced eaſily to cloſe with him, and freely renounce what I have written.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:111742:3"/>
+            <head>
+               <hi>REASONS</hi> againſt the foundations of Freedome, or the agreement of the people, Examined.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall now proceed to the Reaſons, which for the moſt part, are but his own ſuppoſitions, figh<g ref="char:EOLhyphen"/>ting with his ſhaddow, and putting down the fabrick himſelf reared: For</p>
+            <p>Firſt, he ſaith, <hi>it propoſeth that the People,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> or rather a ſmall part of them, <hi>may agree to alter, &amp;c.</hi> But how ſuch concluſions can be ſqueazed from it, I ſee not; ſeeing what is written, is but pro<g ref="char:EOLhyphen"/>pounded to the Parliaments conſiderations, and as they ſee cauſe to Act; and if we way not declare our preſſures, as alſo propound wayes of redreſſe to our Truſtees, what are we but perfect ſlaves? And is there the like equality, in taking away mens Eſtates and Lives, as in altering the choice of Members? where the diviſions are ſo unequally diſtributed, as to have ten or twelve in ſome Countries, and but four in others, not inferiour to thoſe; but I cannot much blame him, for ſo ſtrongly pleading the intereſt of that County, himſelf is a member of; And what pre<g ref="char:EOLhyphen"/>ſident or ground can it be to any, be they few or many to attempt ſuch things he mentions, from what is propounded by the people, and aſſented unto, &amp; acted by the Supreme Judicature in the King<g ref="char:EOLhyphen"/>dome the Parliament? And its no wonder he fears mutation, (all men being mutable) having ſo freſh a preſident, from thoſe who ſhould be the Kingdomes ſupporters, as no Addreſſes, Addreſſes, and no Addreſſes, Vote out, in, and our again, not acting by Fancy, or ſuddain Apprehenſions; but forced through the pre<g ref="char:EOLhyphen"/>valency of corrupt intereſts in ſome, which alſo became a mid<g ref="char:EOLhyphen"/>wife to that Monſter, <hi>viz.</hi> a Treaty with a conquered Eenemy.</p>
+            <pb n="4" facs="tcp:111742:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> He ſaith, <hi>it is unreaſonable, &amp;c.</hi> If the inconveniences be not ſuf<g ref="char:EOLhyphen"/>ficiently diſcovered, by the many thouſands ſlaine, in theſe un<g ref="char:EOLhyphen"/>naturall bloody Warres, with the perſecutions and oppreſſions of old, acted under this ſo much applauded Government, to the ruine of thouſands; what would we have more to doe it? And hath not eight yeares time been ſufficient to debate it, and finde out remedies for it? though the Gentleman wants patience in other matters, yet it ſeemes he hath patience enough, to ſee the Kingdome by groaning under Tyranny and Oppreſſion, almoſt ready to give up her laſt breath; but ſeeing the diſeaſe, through delay, is become gangrenous; and, through overly daubing, cor<g ref="char:EOLhyphen"/>rupt at heart; its high time to ſeek out a ſharp Chirurgion, and lance to the bottome, yea, and cut off too, by impartiall Juſtice, rather then deſtroy the whole Body; which are reaſons ſufficient for ſo great a work.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> The third reaſon is, <hi>from King, Lords, Proteſtations, Experi<g ref="char:EOLhyphen"/>ence, former Warres, and Kingdomes diſtractions.</hi> Are Kings, and Kingly Government of divine Inſtitution? Its true, Government is, but whether by Kings, or otherwayes, is of man, a humane Ordinance; and not by a holy unction from God, by peculiar immediate command from God, but elected by a People; So that the ſame Power which ſets up, may pull down, when the cauſe is Juſt; the right underſtanding whereof, as alſo the vaſt difference between <hi>Iſraels</hi> Kings and ours, would remove the vaile from the peoples eyes, that they would not ſo much adore the name and perſon of a King, eſpecially when we ſee their ambitious nature mounts them up ſo high, that nothing will content, un<g ref="char:EOLhyphen"/>leſſe all muſt be their ſlaves: As for the Lords, when either them<g ref="char:EOLhyphen"/>ſelves, or the author, have cleared their rightfull ſitting in the Su<g ref="char:EOLhyphen"/>pream Judicature of the Kingdome, for, and over thoſe, who never called nor entruſted them, (being meerly the Kings crea<g ref="char:EOLhyphen"/>tures) it might with more colour have been objected. And what if the Parliament proteſted to maintaine ſuch a Government? I ſuppoſe it was before they had that experience, of the evill of it they now have, and muſt their Proteſtations be of more weight now, then the Kingdomes ſafety, and Peoples freedomes; ſo as to reſtore thoſe to their former Dignities, who have left no meanes unaſſayed to enſlave and ruine us? And to reflect back upon
+<pb n="5" facs="tcp:111742:4"/>your hundred years of experience: under what Government was the <hi>Marian</hi> Perſecutions, your Butchers and <hi>Bonner,</hi> your Ship and Pole Monies, with thouſands other Monopolizes and Op<g ref="char:EOLhyphen"/>preſſion, under which this poor Nation hath ſo long groaned? And doth not experience tell us, that almoſt every Age hath had a new Religion eſtabliſhed by humane Law? and yet all of them perſecuting the Saints; and was it not at preſent, poſting after them, (though under a new garb) with no leſſe rigor and violence, then their Predeceſſors, had not divine providence prevented? And what if in former Wars, the people were willing to purchaſe Peace with ſlavery, muſt we alſo? we have reaſon rather, to be more wiſe and cautelous, by their, and our owne experienced miſeries, and to looke now to our ſo deare-bought freedomes, ſince the effect of this is tyranny, and that produceth warre, as the author himſelfe implies; And I may alſo adde further, that in theſe diſtracted times, we have no neede of ſuch nation, and Army-dividings, as theſe reaſons will produce.</p>
+            <p>Is the taking away the power and Priviledges of Parlia<g ref="char:EOLhyphen"/>ment.<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>4</label> And how? <hi>viz.</hi> by eſtabliſhing a byenniall Parliament inſtead of a trienniall, with fuller power then ever, or at leaſt was ever yet acted; but the miſtery is, <hi>viz.</hi> becauſe they may not have an arbytrary power, without and againſt law, and that they, and their attendants may not be free from law, and to pro<g ref="char:EOLhyphen"/>tect whom they pleaſe; it ſeemes we have brought our hogs to a faire market, and fought to good purpoſe, againſt a tyranni<g ref="char:EOLhyphen"/>call King, to ſet up the ſame againe, with an addition of an arbi<g ref="char:EOLhyphen"/>trary tyrannicall Parliament. It's true, we have ſworne to main<g ref="char:EOLhyphen"/>taine their power and Priviledges, but was it not like the Bi<g ref="char:EOLhyphen"/>ſhops oath, &amp;c. to ſweare to we know not what? it being ne<g ref="char:EOLhyphen"/>ver declared what thoſe were, but what themſelves ſaid was, we muſt defend, and ſo were led like blind bayards to the water, if not as fooles to the ſlaughter, therefore it is we deſire to know their limites, that we may know which to defend; which being clearly done, I doubt not, but we may ſubſcribe to the paper, or moſt of it, without palpable or notorious perjury. But ſuppoſe we have ſworne to maintaine that which will be our ſlavery and ruine, muſt ſuch oaths be proſecuted? I ſuppoſe your preſent Miniſtery will teach you better. And for the change of the con<g ref="char:EOLhyphen"/>ſtitution,
+<pb n="6" facs="tcp:111742:5"/>I anſwer: IF it appeare, that part of it was uſurpa<g ref="char:EOLhyphen"/>tion, as indeede it was, it's time to rectify it, that for feare of ſwearing to ſomething but like a Parliament, we may not ſwear to that which is more then we ever called or entruſted; and to ſay truly with the Poet,</p>
+            <q>Incidit in Scyllam, cupiens vitare Charybdin.</q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>5</label> Is by force to take away the preſent Parliament, whereas the Paper propoſeth no ſuch thing; but that the Parliament would diſſolve themſelves, becauſe the Kingdome cries out of their long fitting, thinking they are ſo well ſeated, that they will fit <hi>in per<g ref="char:EOLhyphen"/>petuum;</hi> and to provide for future, that we may not be at un<g ref="char:EOLhyphen"/>certainties; and that they may not, after the example of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> adjourne for two years, to act the like Deſignes, which no doubt was the intention of thoſe that moved it, which will take away thoſe feares of having two at once: neither can any party pretend from this to be a Parliament, unleſſ elected as propoun<g ref="char:EOLhyphen"/>ded, ſeeing it propounds a certaine way, time for elections, and for the beginnings and endings of future Parliaments, or Repreſentatives.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>6</label> To the ſixt, I Anſwer, that had I not known the Author, I ſhould have thought him no other, but one of the Royall Faction, or at leaſt ſtrongly affected that way; for it ſeemes, as though he would not have Delinquents debarr'd from elections, elſe why couples he them, and ſuch as have aſſiſted the Parliament, together, by this terme <hi>as well;</hi> although they have clearly for<g ref="char:EOLhyphen"/>feited their freedome, by theſe unnaturall warres, in oppoſing the Parliament, which others alſo may doe; though formerly aſſiſted the Parliament: witneſſe <hi>Hothams,</hi> and others; if now oppoſe what the Parliament ſettles for the Kingdomes good, which is that the paper propounds, and ſo not done by a few, neither will it be ſlavery to any, except delinquents, and ſuch who are byaſſed on other as rotten principles, that they had rather expoſe the nation to ſlavery and ruine, then be fruſtrated in their owne deſignes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>7</label> Is making parties by ſubſcribers and non-ſubſcribers, with a great deale more of the like; all which might as well, and as ſtrongly have been objected againſt the Parliaments Proteſtations, and Covenants, which was then litle conſidered, though it tended to
+<pb n="7" facs="tcp:111742:5"/>divide the Parliaments friends, yea Parliament it ſelf, by Covenan<g ref="char:EOLhyphen"/>ters and Non-Covenantor: yea ſuch as was moſt cordiall &amp; have proved moſt inſtrumentall for the Kingdomes ſafety; without giving them any hopes of future ſecurity, yet rather of perſecu<g ref="char:EOLhyphen"/>tion and oppreſſion; baniſhment at beſt, if not ſubmit, yet then thought the onely way for the Nations good.</p>
+            <p>Is but a repeating the ſame things over againe,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>8</label> in effect the ſame with the 3, 4, &amp; 5. whither I ſhall referre the Reader, and only take notice of ſome paſſages, <hi>viz. that no power is intended to be above this Repreſentative:</hi> and what need there? ſeeing this is granted (<hi>Reaſ.</hi> the 3.) to be the ſupreme Judicature; can it be ſupreme, and yet have one above it? if objected; that it muſt con<g ref="char:EOLhyphen"/>ſiſt of KING, Lords, and Commons: I aske then, why did this preſent Parliament act without, yea and againſt the KING, yea and Lords too; and declared they might, and would ſo doe? I doe not ſay they are fallen from their primitive principles, that thus object, let others judge; and why will not their Lawes bind? the <hi>Paper</hi> propounds <hi>all to be bound by them;</hi> except they expreſly violate this agreement, the cleare expreſſing whereof will remove that objection of every man being Judge, for any man that hath eyes, can judge when the Sun ſhines, when not; and what is ſaid of forceable oppoſition, is no more than may be ſaid, againſt any Government what ever: ſuppoſe a better could be found out, witneſſe the Cavaliers; which will not take away the lawfull power of this, or any of their under Officers, any more than of others.</p>
+            <p>Is toleration of Popery; <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>9</label> whoſe principles are ſo clearly in<g ref="char:EOLhyphen"/>conſiſtent with any Government, but under the Pope, beſides what of late they have acted, that there is ground ſufficient to ſuppreſſe or expulſe them, without medling with their Religion: But conſider, are not their principles very neare them, who would compell all to be of their Religion? on the ſame ground one may doe it, may another; all the difference is, the one hath the Magiſtrate for him, the other not; and whereas it is ſaid, <hi>men are left to be of any Religion, or no Religion.</hi> I quere what Re<g ref="char:EOLhyphen"/>ligion compulſion makes men of, but that the State is, be it what it will, true or falſe, of any as the State turnes, ſo they, and ſo conſequently are of no Religion. And where, or when did Chriſt
+<pb n="8" facs="tcp:111742:6"/>give any ſuch power to the Magiſtrate to compell men to Religi<g ref="char:EOLhyphen"/>on? if not, is it not an high contempt againſt him, for men to de<g ref="char:EOLhyphen"/>viſe a way of their owne, as if his were inſufficient to doe his own worke? is it not to make Chriſt unfaithfull, and our ſelves wiſer than he, ſo that the more its abhorred by good men, the more <hi>edium</hi> they caſt on Chriſt; and if this be not Blaſphemy, I know not what that word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] denotes: If your Miniſters be the Apoſtles Succeſſours, (as they pretend) let them uſe the A<g ref="char:EOLhyphen"/>poſtles weapons, and not turne the Sword of the Spirit, into a Sword of Steele: And whereas he ſaith, <hi>the Paper was made by a Jeſuite, or the</hi> KING's <hi>old Counſellours, and it tends to take away the Regall power,</hi> is a contradiction; a riddle cannot be unfolded.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>10</label>
+               <hi>Is the Iriſh Warres,</hi> &amp;c. If this Parliament had authority to begin them; may they not be proſecuted by the ſame power, when its diſſolved? unleſſe their power die with them, I meane what they have done during their ſitting, when diſſolved; then to what purpoſe are they? unleſſe to keep us in a fooles paradiſe for a ſeaſon; and returne us againe to our old ſlavery, and all becauſe the KING will not aſſent: if the Warre was lawfull, it may be proſecuted by a new Parliament; if not, why begun?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>11</label>
+               <hi>Is the Scots intereſt;</hi> which if it ſtand in oppoſition to our Free<g ref="char:EOLhyphen"/>domes; it ſeems we muſt couch and return to our old ſlavery, ra<g ref="char:EOLhyphen"/>ther than hazard their frowns, ſo that our freedoms muſt depend on the <hi>Scots;</hi> and what we may expect from them, let the laſt Summer judge, which was acted not by a few, but their Supreme power the Parliament; ſo that it ſeemes Parliaments may erre, and be oppoſed alſo, and that the People may judge of it, (which ſerves to Anſwer part of his 8. <hi>Reaſon.</hi>) elſe why did we juſtifie them that oppoſed and ſuppreſſed the Parliaments force to exalt them? and if thoſe who were freed from ſlavery, by meanes of that now ſo much deſpiſed Army, ſhall attempt to ſecond their Brethren <hi>for King and Preſbytery,</hi> (which, I hope, they will not) I doubt not but they will meet with the like entertainment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>12</label>
+               <hi>Becauſe it deſtroyes the Cauſe we have fought for, and doth the Enemies worke,</hi> &amp;c. The Enemies worke was to ſet up an arbi<g ref="char:EOLhyphen"/>trary King, and to deſtroy not onely this, but all future Parlia<g ref="char:EOLhyphen"/>ments againſt which we engaged, and not to ſet up the ſame ty<g ref="char:EOLhyphen"/>ranny in King and Parliament; all the <hi>Paper</hi> propoſeth, is a diſ<g ref="char:EOLhyphen"/>ſolving
+<pb n="9" facs="tcp:111742:6"/>this Parliament (not by force, but willingly) to give way for another, that the People may be free, who did not chuſe Truſtees to be their perpetuall Lords; and if it was ſo high an attempt in the King to impoſe upon Parliament Priviledges, be<g ref="char:EOLhyphen"/>ing the ſupreme power; is it not much more to King and Parlia<g ref="char:EOLhyphen"/>ment to impoſe upon the Peoples Liberties, who under God, are the originall of all juſt power, as the Parliament declares; ſo that the power and priviledges both of King and Parliament are from the People; therefore if they ſtand for their juſt freedome againſt tyranny, whether of King, or Parliament, its no doing the Enemies worke. <hi>And for being Treaſon,</hi> &amp;c. what was done, was by Parliaments power; but ſuppoſe it had not, the People being originall of all juſt power, and <hi>ſalus populi,</hi> the ſupreme Law; if the Parliament had deſerted them, and adhered to the KING's intereſt, as many did, they might have oppugned both, unleſſe we be bound to ſit ſtill while our Maſters tread upon our necks to mount the chaire of tyranny, yea cut our throats; I know not what Law the Authour may have for it, I am ſure neither the Law of God, nor nature will warrant it; I ſuppoſe thoſe of the <hi>Scots</hi> who oppoſed their Supreme power, and joy<g ref="char:EOLhyphen"/>ned with our Armies, will teach us ſomething; ſo that this is but a bone caſt among the Army, to divide and breake them; that their Enemies may with more facility act their curſed deſignes to enſlave both them, and us.</p>
+            <p>Is but a repetition of moſt of the reſt (to blind the Readers eyes, by multiplying words) to which I referre the Reader,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>13</label> onely thus much by the way, that none of thoſe he mentions will be againſt the Paper, or moſt of it; but ſuch who are engaged, or intereſſed in the Royall deſignes, and that hope by advancing an Arbitrary Government in the State, and a compulſive perſecu<g ref="char:EOLhyphen"/>ting Government in the Church, to be the Kingdomes Maſters: And of the reſt, ſuch as know not their owne freedomes, are con<g ref="char:EOLhyphen"/>tent to be Slaves in peace, or ſuch as would have none to live with, or amongſt them, but of their owne Faction, that will ſay and act as they doe, and be of any Religion their Lordly Maſters impoſe upon them.</p>
+            <p>I have done with his <hi>Reaſons,</hi> but ſhall touch ſome of his ſtrings in his <hi>Generall Obſervations,</hi> eſpecially that of the Prieſts,
+<pb n="10" facs="tcp:111742:7"/>who as they have blowne the coales of contention in our late Warres, ſo are ſtill active to preſerve their owne corrupt intereſt, interweaving themſelves with the Magiſtrate, not being able to ſtand upon their owne bottomes, dare not truſt Chriſt from whom they pretend their Commiſſion: I ſhall leave his profeſ<g ref="char:EOLhyphen"/>ſion to his own Conſcience, whether his tongue and heart agree, and the Reader to theſe lines, to trie on what baſis he ſtands.</p>
+            <p>I come now to his <hi>Generall Obſervations</hi> upon the particulars prepared for the new Repreſentative, <hi>viz.</hi> no Death but for Murther, no Impriſonment for Debt, no Tythes, no reſtriction of Trade, no Lawyers nor Lawes but in Engliſh, and Twelve men in every Hundred to end all Differences; but ſeeing he leaves ſome of them untoucht, I ſhall alſo:</p>
+            <p>And firſt, I ſhall not take upon me to aſſert that none ought to Die but for Murther, but that puniſhments ſhould be more equall to offences, were meet, and not to take away mens lives for ſuch triviall matters, as in ſome Caſes by our Lawes; whereas God in the rigour of the Jewiſh Law never required it, which is to make our ſelves wiſer than God; and certainly the reaſons, why our Lawes are ſo ineffectuall; but rather harden men in their exorbitancies, is the inequality of them; in exacting what God never required: and undoubtedly we might expect a grea<g ref="char:EOLhyphen"/>ter bleſſing upon them, if they were more equally proportioned to Offences; but here I obſerve, that he would inſinuate to the People, as though the Paper propounded to have Lawes made in favour, to encourage men in ſuch enormities as he mentions, which is a groſſe (I ſay, not a willing) miſtake, whereas an equa<g ref="char:EOLhyphen"/>lity of puniſhments to offences, is onely deſired; Equity being the rule we ſhould act by: neither doth it propoſe to take away the Law, but to have it in our owne Language, that every man may know the Law he is bound by; and what evill can that be to any, except to the Lawyers, who make a prey of the Peoples ignorance, and therefore would ſtill keep us under that ſlavery? for, what greater ſlavery can People be under then to be bound by Lawes they cannot underſtand, but muſt take them on truſt, from ſuch as make a Trade of it? And if we had fewer Lawyers, and more Hundred Courts, we might have more honeſty and juſtice, and not ſo many poore People ruined through tedious
+<pb n="11" facs="tcp:111742:7"/>delaies, ſometimes two, three, foure, yea ſix yeares, before they can have juſtice, and happily not then neither: And if our Lawes were in Engliſh, we ſhould not need feare ſo much ignorant Juries, which might alſo be choſen of men reſponſible enough, if miſcarried; Neither is it abſolutely required that they ſhould ſupply the Places of Sheriffs, Juſtices, &amp;c. but left to the Parlia<g ref="char:EOLhyphen"/>ments to appoint as they ſee needfull; onely a free Election is deſired.</p>
+            <p>But the great buſineſſe is the Miniſters, and their great <hi>Diana</hi> the Tythes; who being in like condition with the unjuſt Stew<g ref="char:EOLhyphen"/>ard, if diſplaced cannot digge, and are aſhamed to begge, muſt be wiſe in their generation, (as the Children of this world are) to uphold their repute: and having by that craft got their li<g ref="char:EOLhyphen"/>vings, will rather ſet the whole Nation on fire, and in confuſion, than loſe the hopes of their gaine: hence they intermix them<g ref="char:EOLhyphen"/>ſelves with the powers of the earth (like the trees of <hi>Daniels</hi> Image) making uſe of that old Antichriſtian engine, which like prompt Scholars, they have learned from their grand Tutours, the Biſhops, <hi>viz. no Biſhop, no King;</hi> which is now metamor<g ref="char:EOLhyphen"/>phized into that ugly monſter, no Miniſter, no Magiſtrate, no Tythes, no Landlords Rents; advice to ſupport their tottering <hi>Babel,</hi> and mouldering pomp; whereas nothing is more evident, then that a Magiſtracy hath and may ſtand entire without them; and the Miniſtry of Chriſt without, and in oppoſition to the Ma<g ref="char:EOLhyphen"/>giſtracy; which demonſtrates them to be none of his ſending, that cannot act without a power from man; but they well know that if they can inſtill that principle into the Magiſtrate, they have made all ſure, <hi>viz. that thou they muſt ſtand and fall together:</hi> wherefore I wiſh our preſent Powers, may beware of ſuch Do<g ref="char:EOLhyphen"/>ctrines, and not ſuffer themſelves to be ſo deluded by ſuch ſelf-ſeeking Goſpel merchandizers, &amp; no longer endevour to mix clay &amp; iron together, leſt when the preſent Miniſters follow their Fa<g ref="char:EOLhyphen"/>thers the Biſhops, they bring the preſent powers into the Kings condition. It's not deſired that the Magiſtrates would take them away, <hi>i.e.</hi> ſuppreſſe them; but to let them ſtand upon their owne bottoms to act by his power (they ſay) ſent them, that ſo they may manifeſt the truth of their Office; and to be content with his wages, for what greater diſhonour can they doe to Chriſt than
+<pb n="12" facs="tcp:111742:8"/>diſtruſt him; if he ſent them, he is able to defend them, (being neither aſleep, nor in a journey) and provide for them; (that they need not play the Sonnes of <hi>Eli</hi>) without, yea againſt all the powers of the world; whereas by their owne confeſſion, if the Magiſtrate provide not for them, they muſt ſtarve, neither have they any power to act but from him; which is true, for the power they expect and cry ſo loud for, is of Man, not of God, who will not have men brought into his fold, by the head and ſhoulders; but by the Word of truth, ſpirituall weapons; which demonſtrates them to be the States, the Magiſtrates, Miniſters; not Chriſts, though the Gentleman is ſo much offended that they have their right titles: for from whom I receive power to act, and pay for my worke, his Servant I am; for my part I have no<g ref="char:EOLhyphen"/>thing to ſay againſt them that will have ſuch Servants, Lords ra<g ref="char:EOLhyphen"/>ther, much good may they doe them; but its meet then that they ſhould maintaine them, and not force others to doe it; for, what greater oppreſſion can People be under, than be forced to maintaine other mens Servants, to live idlely, when neither re<g ref="char:EOLhyphen"/>ceive, nor expect benefit by them in the waies they act; It's true, that the Scripture ſpeaks of Miniſters, but that they are the men, <hi>ſub judice lis eſt:</hi> and <hi>that they ſhould live of the Goſpel</hi> is true, but that its left to the Magiſtrate to proportion is as untrue, and without the leaſt colour of Scripture, and leaſt of all that its <hi>Tythes,</hi> unleſſe we be ſtill under <hi>Moſes</hi> and the Law, and deny <hi>Chriſt</hi> to be come in the fleſh, which though their tongues con<g ref="char:EOLhyphen"/>feſſe their deeds deny, and ſo their actions give their tongues the lie: and therefore of all men they deſerve the leaſt to be tole<g ref="char:EOLhyphen"/>rated, who crie out ſo much againſt it, and themſelves come un<g ref="char:EOLhyphen"/>der the ſame condemnation. But now they have got a new trick for their Tythes, a <hi>jus humanum;</hi> now they ſee their <hi>jus divinum</hi> will not ſerve; which was their old pillar, (till their deceit was found out) and all that withheld them, yea the Impropriators, were judged Sacrilegious; though now content, yea glad they are ſo diſpoſed of, being the onely way to preſerve them a ſhare: and whether each man beſt deſerve his owne, I leave them to judge who take moſt paines for them: and when a man hath laid out his Eſtate to improve his Lands, another muſt have the Profits, (for my owne part, I have none to pay, and therefore
+<pb n="13" facs="tcp:111742:8"/>plead not for my ſelfe.) And how Impropriators may be ſatiſ<g ref="char:EOLhyphen"/>fied, I leave to the Parliament, who by their owne wiſdomes, and ſuch waies as (no doubt) will be propounded, I preſume will give the Gentleman and others ſatisfaction.</p>
+            <p>And now I have done both with his <hi>Reaſons</hi> and <hi>Obſervations,</hi> and ſhall (with him) leave all to the Readers judgment, and think he might have ſpared his owne, there being no ſuch thing as he pretends, but contrariwiſe a Magiſtrate and Government with as full a legall power as ever, a Miniſter and Maintenance of Chriſts appointing, not mans, ſuch meanes to bring men to piety, and purity in Religion Chriſt hath commanded, but no tyranni<g ref="char:EOLhyphen"/>call Magiſtracy, no Arbitrary government, no Lordly Prelacy, no uſurping Tythmonger Presbytery, no Whips, Fines, Impriſon<g ref="char:EOLhyphen"/>ments, and ſuch like Antichriſtian engines to force men to a State-religion, whereby they may be made of any Religion, and indeed of no Religion, but changing with wind and tide, are in ſumme notorious Hypocrites, and being ſo proſelyted become threefold worſe then Children of Hell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
